@@ -1,2 +1,2 @@
 # CSharpCripto
-Cryptocurrency implementation in C#
+Cryptocurrency implementation in C# based on my course
